@@ -1,0 +1,2 @@
+# Enhancing-Hazy-Image-Quality-with-a-Modular-CNN-Encoder-Decoder
+This study presents a modular CNN encoder–decoder framework for single-image dehazing using token-mixing modules (FNet, MLP-Mixer, gMLP). Built with adaptive preprocessing on the SOTS dataset, it boosts mean PSNR from ~18.4 to 23–24 dB and SSIM to 0.89–0.91. While variants require careful loss tuning, it offers practical vision system guidance.
